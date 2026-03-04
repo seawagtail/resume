@@ -13,40 +13,42 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": ""
+    "name": "王甫东",
+    "email": "2094436107@qq.com",
+    "mobile": "15572460882",
+    "github": "https://github.com/seawagtail",
   },
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2021.09.01",
+        "2025.06.30"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "school": "湖北工业大学",
+      "major": "机械设计制造及其自动化",
       "academic_degree": "本科"
     }
   ],
   "awardList": [
     {
-      "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_info": "英语 CET4 500",
+      "award_time": "2022"
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
+      "award_info": "计算机二级 良好",
+      "award_time": "2023"
     },
     {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
+      "award_info": "全国大学生数学竞赛CMC（省三）",
+      "award_time": "2022"
     },
     {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
+      "award_info": "周培源力学竞赛",
+      "award_time": "2022"
+    }
+    {
+      "award_info": "全国大学生先进成图技术与产品信息建模创新大赛",
+      "award_time": "2021"
     }
   ],
   "workExpList": [
